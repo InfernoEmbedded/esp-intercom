@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name DC-DC-reg)(type Legacy)(uri /home/deece/kicad/Libraries/dc-dc_regulator.lib)(options "")(descr ""))
+  (lib (name esp-intercom-rescue)(type Legacy)(uri ${KIPRJMOD}/esp-intercom-rescue.lib)(options "")(descr ""))
+)
